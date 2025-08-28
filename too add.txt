@@ -1,0 +1,5 @@
+add drift bost
+fix drift
+fix turning (turn to much at the start)
+2 system camera
+Crash system (slow down/stop player when hit a wall)
