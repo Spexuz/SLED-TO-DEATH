@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset",
+				"C:/Users/MageLux/Documents/GitHub/SLED-TO-DEATH/project_sled/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_skate_P2.uasset",
+				"C:/Users/MageLux/Documents/GitHub/SLED-TO-DEATH/project_sled/Content/__ExternalActors__/ThirdPerson/Maps/Test_map/5/JX/DT8RP34MUW7OYVN4XTMTDR.uasset",
+				"C:/Users/MageLux/Documents/GitHub/SLED-TO-DEATH/project_sled/Content/ThirdPerson/Maps/Test_map.umap",
 				"C:/Users/spexi/Documents/25DProject/SLED-TO-DEATH/project_sled/Content/Frontend/Input/Actions/IA_UI_Back.uasset",
 				"C:/Users/spexi/Documents/25DProject/SLED-TO-DEATH/project_sled/Content/Frontend/Input/Actions/IA_UI_NavUp.uasset",
 				"C:/Users/spexi/Documents/25DProject/SLED-TO-DEATH/project_sled/Content/Frontend/Input/Actions/IA_UI_NavDown.uasset",
@@ -20,7 +24,6 @@
 				"C:/Users/spexi/Documents/25DProject/SLED-TO-DEATH/project_sled/Content/Frontend/UI/_Core/WBP_TestScreen.uasset",
 				"C:/Users/spexi/Documents/25DProject/SLED-TO-DEATH/project_sled/Content/Maps/Frontend/LVL_MainMenu.umap",
 				"C:/Users/defst/Documents/Unreal Projects/Sleedtest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_skate.uasset",
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset",
 				"C:/Users/defst/Documents/GitHub/SLED-TO-DEATH/project_sled/Content/__ExternalActors__/ThirdPerson/Maps/Test_map/8/0M/HXY4OE8LI226Q4QZJTJJ9Q.uasset",
 				"C:/Users/defst/Documents/GitHub/SLED-TO-DEATH/project_sled/Content/__ExternalActors__/ThirdPerson/Maps/Test_map/4/BJ/7CEW5GFGPZZST30ED89KF5.uasset",
 				"C:/Users/defst/Documents/GitHub/SLED-TO-DEATH/project_sled/Content/__ExternalActors__/ThirdPerson/Maps/Test_map/4/S0/YAYE8XV1DUIWRRRAC4DRFJ.uasset",
